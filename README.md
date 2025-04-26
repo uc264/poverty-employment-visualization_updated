@@ -1,4 +1,4 @@
-Improved version of Project 1 with enhanced visualization features
+Improved version of Project 1 with enhanced visualization features 
 # Project 1 - poverty-employment-visualization_updated (Version 2)
 
 ## Overview
