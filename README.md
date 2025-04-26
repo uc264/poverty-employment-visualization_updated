@@ -11,7 +11,7 @@ It features a choropleth map and a scatterplot for correlation analysis.
 
 ---
 
-## 🌟 Version 2 (Updated Submission)
+## Version 2 (Updated Submission)
 
 ### What I Learned
 Through Project 2 and Project 3, I learned better design practices:
@@ -22,7 +22,7 @@ Through Project 2 and Project 3, I learned better design practices:
 
 ---
 
-## ✨ Goals of Resubmission
+## Goals of Resubmission
 - Improve tooltip interaction (follows cursor, formatted cleanly)
 - Add search functionality for easy county lookup
 - Smooth loading experience (spinners and progress bars)
